@@ -1,0 +1,14 @@
+c:\Users\emrea\OneDrive\Masaüstü\pratik\C#\phoneliblary\bin\Debug\net8.0\phoneliblary.exe
+c:\Users\emrea\OneDrive\Masaüstü\pratik\C#\phoneliblary\bin\Debug\net8.0\phoneliblary.deps.json
+c:\Users\emrea\OneDrive\Masaüstü\pratik\C#\phoneliblary\bin\Debug\net8.0\phoneliblary.runtimeconfig.json
+c:\Users\emrea\OneDrive\Masaüstü\pratik\C#\phoneliblary\bin\Debug\net8.0\phoneliblary.dll
+c:\Users\emrea\OneDrive\Masaüstü\pratik\C#\phoneliblary\bin\Debug\net8.0\phoneliblary.pdb
+c:\Users\emrea\OneDrive\Masaüstü\pratik\C#\phoneliblary\obj\Debug\net8.0\phoneliblary.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\emrea\OneDrive\Masaüstü\pratik\C#\phoneliblary\obj\Debug\net8.0\phoneliblary.AssemblyInfoInputs.cache
+c:\Users\emrea\OneDrive\Masaüstü\pratik\C#\phoneliblary\obj\Debug\net8.0\phoneliblary.AssemblyInfo.cs
+c:\Users\emrea\OneDrive\Masaüstü\pratik\C#\phoneliblary\obj\Debug\net8.0\phoneliblary.csproj.CoreCompileInputs.cache
+c:\Users\emrea\OneDrive\Masaüstü\pratik\C#\phoneliblary\obj\Debug\net8.0\phoneliblary.dll
+c:\Users\emrea\OneDrive\Masaüstü\pratik\C#\phoneliblary\obj\Debug\net8.0\refint\phoneliblary.dll
+c:\Users\emrea\OneDrive\Masaüstü\pratik\C#\phoneliblary\obj\Debug\net8.0\phoneliblary.pdb
+c:\Users\emrea\OneDrive\Masaüstü\pratik\C#\phoneliblary\obj\Debug\net8.0\phoneliblary.genruntimeconfig.cache
+c:\Users\emrea\OneDrive\Masaüstü\pratik\C#\phoneliblary\obj\Debug\net8.0\ref\phoneliblary.dll
